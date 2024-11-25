@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React from 'react'
 import Hero from "./hero"
 import Main from "./bodySection"
 import Footer from './footer'

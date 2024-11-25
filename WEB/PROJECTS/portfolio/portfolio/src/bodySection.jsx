@@ -1,5 +1,5 @@
 import React from "react";
-import Template from "./bodyComponents/aboutTemp";
+{/*import Template from "./bodyComponents/aboutTemp";*/}
 import "./bodySection.css";
 import laptop from "./bodyComponents/images/laptop.png";
 import github from "./bodyComponents/images/Github.gif";
@@ -44,9 +44,13 @@ export default function Main() {
     ];
     return (
         <section className="main-section">
+           
+            {/*<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/QdCeE2r7sxsDTG80KORiAO/Figma-basics?node-id=602-9&embed-host=share" allowfullscreen></iframe>*/}
+            
+            {/*
             {titleObjects.map((item, index) => (
                 <Template key={index} item={item} index={index}/>
-            ))}
+            ))}*/}
             <Socials />
         </section>
     );

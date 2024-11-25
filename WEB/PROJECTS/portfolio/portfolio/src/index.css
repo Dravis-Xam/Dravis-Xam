@@ -28,9 +28,10 @@ body {
   display: flex;
   place-items: center;
   padding: 0;
-  min-width: 320px;
+  min-width: 100vh;
   max-width: 1980px;
   min-height: 100vh;
+  max-height: 3000px;
   background: white url("portfolio/src/assets/abstract-dark-background-with-flowing-colouful-waves.jpg");
   background-position: center;
   background-size: cover;
