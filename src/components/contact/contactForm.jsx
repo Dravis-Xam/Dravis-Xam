@@ -1,6 +1,6 @@
 import React from "react";
 import "./contactForm.css";
-import send from "./icons/send.gif";
+import send from "../../assets/Send.gif";
 
 export default function ContactForm() {
     const iconstyle = {

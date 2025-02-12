@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./loading.css";
-import load from "./assets/loading.gif";
+import load from "../../assets/loading.gif";
 
 export default function Loading() {
   const [isLoading, setIsLoading] = useState(true);

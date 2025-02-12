@@ -1,5 +1,5 @@
 import "./myPhoto.css";
-import myPhoto from "./photo/Dravis-removebg-preview.png";
+import myPhoto from "../../assets/Dravis-removebg-preview.png";
 
 function MyPhoto() {
     return (

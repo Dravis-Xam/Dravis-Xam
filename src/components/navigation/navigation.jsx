@@ -1,7 +1,7 @@
-import ButtonWithArrow from "./buttonWithArrow"
+import ButtonWithArrow from "../bwa/buttonWithArrow"
 import "./navigation.css"
 
-function Navigation() {
+export default function Navigation() {
     return (
         <div className="navbar">
             <ul>
@@ -13,5 +13,3 @@ function Navigation() {
         </div>
     )
 }
-
-export default Navigation

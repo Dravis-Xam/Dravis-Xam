@@ -1,11 +1,11 @@
-import tiktok from "./images/Tiktok.gif";
-import twitter from "./images/twitter.gif";
-import email from "./images/Email.gif";
-import facebook from "./images/Facebook.gif";
-import whatsapp from "./images/Whatsapp.gif";
-import instagram from "./images/Instagram.gif";
-import call from "./images/call.svg";
-import sms from "./images/sms.svg";
+import tiktok from "../assets/Tiktok.gif";
+import twitter from "../assets/twitter.gif";
+import email from "../assets/Email.gif";
+import facebook from "../assets/Facebook.gif";
+import whatsapp from "../assets/Whatsapp.gif";
+import instagram from "../assets/Instagram.gif";
+import call from "../assets/call.svg";
+import sms from "../assets/sms.svg";
 
 const socialAccDetails = {
     tiktok: {

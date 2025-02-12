@@ -1,6 +1,6 @@
 import React from "react";
 import "./socialMedia.css";
-import socialAccDetails from "./sAdetails";
+import socialAccDetails from "../sAdetails";
 
 export default function Socials() {
     return (

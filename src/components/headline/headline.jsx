@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./headline.css";
-import Navigation from "./navigation";
+import Navigation from "../navigation/navigation";
 
 function Headline() {
     const [isSticky, setIsSticky] = useState(false);

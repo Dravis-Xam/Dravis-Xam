@@ -1,8 +1,8 @@
-import ContactForm from "./footerComponents/contactForm";
-import Services from "./footerComponents/services";
+import ContactForm from "../contact/contactForm";
+import Services from "../services/services";
 import './footer.css';
-import SiteOrigin from "./footerComponents/SiteOrigin";
-import Legals from "./footerComponents/legals";
+import SiteOrigin from "../siteorigin/SiteOrigin";
+import Legals from "../legals/legals";
 
 export default function Footer() {
     const styleb = {

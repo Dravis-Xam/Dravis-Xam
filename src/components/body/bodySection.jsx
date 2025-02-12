@@ -1,13 +1,13 @@
 import React from "react";
-import Template from "./bodyComponents/aboutTemp";
+import Template from "../aboutTemp/aboutTemp";
 import "./bodySection.css";
-import laptop from "./bodyComponents/images/laptop.png";
-import github from "./bodyComponents/images/Github.gif";
-import pwonLp from "./bodyComponents/images/pwonLp.png";
-import discord from "./bodyComponents/images/discord.gif";
-import design from "./bodyComponents/images/design.png";
-import youtube from "./bodyComponents/images/Youtube.gif";
-import Socials from "./bodyComponents/socialMedia";
+import laptop from "../../assets/laptop.png";
+import github from "../../assets/Github.gif";
+import pwonLp from "../../assets/pwonLp.png";
+import discord from "../../assets/discord.gif";
+import design from "../../assets/design.png";
+import youtube from "../../assets/Youtube.gif";
+import Socials from "../socialmedia/socialMedia";
 
 export default function Main() {
     const titleObjects = [

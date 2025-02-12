@@ -1,6 +1,6 @@
 import React from 'react';
-import arrowImage from './icons/arrows.png';
-import './ButtonWithArrow.css';
+import arrowImage from '../../assets/arrows.png';
+import './buttonwitharrow.css';
 
 export default function ButtonWithArrow() {
     return (

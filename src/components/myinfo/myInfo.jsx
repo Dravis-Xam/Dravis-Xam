@@ -1,4 +1,4 @@
-import JobTitles from "./jobtitles";
+import JobTitles from "../jobtitles/jobtitles";
 import "./myInfo.css"
 
 function MyInfo() {
