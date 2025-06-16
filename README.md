@@ -40,21 +40,6 @@ I engineer **scalable, immersive experiences** across dimensions:
 
 ---
 
-## 🚀 **Highlight Projects**  
-
-### **1. NEON-UI**  
-*React + Tailwind component library with cyberpunk animations*  
-🔗 `git clone https://github.com/Dravis-Xam/neon-ui`  
-
-### **2. ANDROID-XR**  
-*Kotlin/Unreal hybrid app for AR navigation*  
-📱 [APK Demo](https://github.com/Dravis-Xam/android-xr/releases)  
-
-### **3. CLOUD-AI-TEMPLATE**  
-*Serverless TypeScript/Python AI microservices*  
-☁️ [Deploy on AWS](https://github.com/Dravis-Xam/cloud-ai-template)  
-
----
 
 ## 📡 **Connect**  
 
@@ -62,7 +47,8 @@ I engineer **scalable, immersive experiences** across dimensions:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dravisxam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dravis-Xam)  
 
-**ProtonMail:** `dravis@pm.me`  
+**ProtonMail:** `dravis_codex@proton.me`   
+
 
 ---
 
