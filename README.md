@@ -25,7 +25,7 @@ I engineer **scalable, immersive experiences** across dimensions:
 | **Domain**         | **Technologies**                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
 | **Frontend**       | React, Next.js, Tailwind, Bootstrap, Three.js, WebGL                            |
-| **Mobile**         | React Native (Expo), Kotlin/Android, Jetpack Compose                            |
+| **Mobile**         | React Native (Expo), Kotlin/Android, Jetpack Compose, c++                       |
 | **Backend/Cloud**  | Node.js, Python, Firebase, AWS Lambda, GCP Functions                           |
 | **Game Dev**       | Unreal Engine (Blueprint/C++), AR/VR Integration                                |
 | **UI/UX**          | Figma, Adobe XD, Motion Design, Micro-interactions                             |
@@ -43,7 +43,7 @@ I engineer **scalable, immersive experiences** across dimensions:
 
 ## 📡 **Connect**  
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DravisXam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dravls142299)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dravisxam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dravis-Xam)  
 
