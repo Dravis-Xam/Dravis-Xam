@@ -38,6 +38,7 @@ I engineer **scalable, immersive experiences** across dimensions:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Prisma](https://img.shields.io/badge/PRISMA%20-20B2AA?style=for-the-badge&logo=prisma)
+![Rust](https://img.shields.io/badge/RUST%20-025E8C?style=for-the-badge&logo=RUST)
 
 ---
 
